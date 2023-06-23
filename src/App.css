@@ -76,7 +76,13 @@ h1 {
 }
 
 .completed {
-  color: #c5aeff;
+  color: black;
   text-decoration: line-through;
 }
- 
+.check{
+    margin-right: 4px;
+}
+ .check-div{
+    display: flex;
+    justify-content: center;
+ }
